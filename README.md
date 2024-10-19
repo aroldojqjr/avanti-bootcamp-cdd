@@ -17,4 +17,4 @@ Variáveis que registrei:
     
 No total, foram registradas 244 gorjetas.
 
-https://img.freepik.com/fotos-gratis/proprietarios-de-pequenas-empresas-cafe-e-conceito-de-pessoal-barista-simpatico-e-simpatico-dancando-e-apontando-o-dedo-para-a-camera-convidando-voce-a-tomar-drinks-no-cafe-sorrindo-feliz-escolhendo-o-hospede_1258-59191.jpg?t=st=1729354654~exp=1729358254~hmac=562830a2e2dcf04e9d85b377f2e024bcb95493874818f36a2b2693e16375f2e9&w=996
+![garço feliz](https://img.freepik.com/fotos-gratis/proprietarios-de-pequenas-empresas-cafe-e-conceito-de-pessoal-barista-simpatico-e-simpatico-dancando-e-apontando-o-dedo-para-a-camera-convidando-voce-a-tomar-drinks-no-cafe-sorrindo-feliz-escolhendo-o-hospede_1258-59191.jpg?t=st=1729354654~exp=1729358254~hmac=562830a2e2dcf04e9d85b377f2e024bcb95493874818f36a2b2693e16375f2e9&w=996)
